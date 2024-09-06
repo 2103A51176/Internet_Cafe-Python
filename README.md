@@ -17,13 +17,7 @@ The Internet Cafe Management System is a Python application designed to manage t
 
 1. **Install Dependencies**: Ensure you have Python installed. The project uses the built-in SQLite3 library, so no additional dependencies are required.
 
-2. **Database Setup**: Run the database setup code to create the necessary tables in the SQLite3 database.
-
-    ```bash
-    python database_setup.py
-    ```
-
-3. **Run the Application**: Execute the main script to start the Internet Cafe Management System.
+2. **Run the Application**: Execute the main script to start the Internet Cafe Management System.
 
     ```bash
     python main.py
